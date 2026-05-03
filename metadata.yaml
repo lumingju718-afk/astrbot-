@@ -1,0 +1,5 @@
+name: agent_dev_tools
+display_name: Agent 自开发工具箱
+description: 提供 write_plugin_file 和 hot_reload_plugin 两个工具，让子 Agent 能生成并加载新插件。
+version: 1.0.0
+author: mingjulu
